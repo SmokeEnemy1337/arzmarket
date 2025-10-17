@@ -1,4 +1,4 @@
 {
-    "updateurl": "https://raw.githubusercontent.com/SmokeEnemy1337/arzmarket/main/#ArzMarket.lua",
+    "updateurl": "https://github.com/SmokeEnemy1337/arzmarket/raw/refs/heads/main/%23ArzMarket.lua",
     "latest": "3.28"
 }
