@@ -2,73 +2,79 @@
     "ArzCloseCalendar": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/calendar.lua",
         "png": "https://imgur.com/f71Oti3",
-        "description": "После установки данная табличка\nполностью пропадет из игры.",
+        "description": "РџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РґР°РЅРЅР°СЏ С‚Р°Р±Р»РёС‡РєР°\nРїРѕР»РЅРѕСЃС‚СЊСЋ РїСЂРѕРїР°РґРµС‚ РёР· РёРіСЂС‹.",
         "unic": 1
     },
     "MiningToolFixed": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/miningtool.lua",
         "png": "https://imgur.com/KTwzoIK",
-        "description": "Полностью исправленный Mining Tools.\nЧто бы открыть меню - ALT...\nвозле стойки видеокарты.",
+        "description": "РџРѕР»РЅРѕСЃС‚СЊСЋ РёСЃРїСЂР°РІР»РµРЅРЅС‹Р№ Mining Tools.\nР§С‚Рѕ Р±С‹ РѕС‚РєСЂС‹С‚СЊ РјРµРЅСЋ - ALT...\nРІРѕР·Р»Рµ СЃС‚РѕР№РєРё РІРёРґРµРѕРєР°СЂС‚С‹.",
         "unic": 1
     },
     "FastOpenNomera": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/nomera.lua",
         "png": "https://imgur.com/tWxClVQ",
-        "description": "Быстрое открытие номеров без\nанимации.",
+        "description": "Р‘С‹СЃС‚СЂРѕРµ РѕС‚РєСЂС‹С‚РёРµ РЅРѕРјРµСЂРѕРІ Р±РµР·\nР°РЅРёРјР°С†РёРё.",
         "unic": 1
     },
     "ProAntiRvanka-v5": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/AntiRvanka_3_1.lua",
         "png": "https://imgur.com/E3pXhgE",
-        "description": "Спасет вас от любых рванок\nпригодится на любые случаи жизни.",
+        "description": "РЎРїР°СЃРµС‚ РІР°СЃ РѕС‚ Р»СЋР±С‹С… СЂРІР°РЅРѕРє\nРїСЂРёРіРѕРґРёС‚СЃСЏ РЅР° Р»СЋР±С‹Рµ СЃР»СѓС‡Р°Рё Р¶РёР·РЅРё.",
         "unic": 1
     },
     "CloseRewardBanner": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/rewbanner.lua",
         "png": "https://imgur.com/qXZlwwu",
-        "description": "После установки данная табличка\nполностью пропадет из игры.",
+        "description": "РџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РґР°РЅРЅР°СЏ С‚Р°Р±Р»РёС‡РєР°\nРїРѕР»РЅРѕСЃС‚СЊСЋ РїСЂРѕРїР°РґРµС‚ РёР· РёРіСЂС‹.",
         "unic": 1
     },
     "NewStroboMenu": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/strobo.lua",
         "png": "https://imgur.com/QHh7Qnt",
-        "description": "Луа которая добавляет 2 вида\nстробоскопов с настройкой задержки.\nОткрыть настройки можно командой /strobo.",
+        "description": "Р›СѓР° РєРѕС‚РѕСЂР°СЏ РґРѕР±Р°РІР»СЏРµС‚ 2 РІРёРґР°\nСЃС‚СЂРѕР±РѕСЃРєРѕРїРѕРІ СЃ РЅР°СЃС‚СЂРѕР№РєРѕР№ Р·Р°РґРµСЂР¶РєРё.\nРћС‚РєСЂС‹С‚СЊ РЅР°СЃС‚СЂРѕР№РєРё РјРѕР¶РЅРѕ РєРѕРјР°РЅРґРѕР№ /strobo.",
         "unic": 1
     },
     "AutoAltEnterFix": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/alt_enter.lua",
         "png": "https://imgur.com/KJrv2Vb",
-        "description": "Данная луа фиксит когда вы \nслучайно нажимали Alt+Enter\nи гта сворачивалась. Блокирует нажатие Alt+Enter.",
+        "description": "Р”Р°РЅРЅР°СЏ Р»СѓР° С„РёРєСЃРёС‚ РєРѕРіРґР° РІС‹ \nСЃР»СѓС‡Р°Р№РЅРѕ РЅР°Р¶РёРјР°Р»Рё Alt+Enter\nРё РіС‚Р° СЃРІРѕСЂР°С‡РёРІР°Р»Р°СЃСЊ. Р‘Р»РѕРєРёСЂСѓРµС‚ РЅР°Р¶Р°С‚РёРµ Alt+Enter.",
         "unic": 1
     },
     "ActiveAcsHelper": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/ActiveAccsHelper.lua",
         "png": "https://imgur.com/AWvMzpv",
-        "description": "После установки вы будете видеть\nкогда вам будет доступен ледяной меч.",
+        "description": "РџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РІС‹ Р±СѓРґРµС‚Рµ РІРёРґРµС‚СЊ\nРєРѕРіРґР° РІР°Рј Р±СѓРґРµС‚ РґРѕСЃС‚СѓРїРµРЅ Р»РµРґСЏРЅРѕР№ РјРµС‡.",
         "unic": 1
     },
     "AutoCloseBanner": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/banner.lua",
         "png": "https://imgur.com/eU9ksRk",
-        "description": "После установки данная табличка\nполностью пропадет из игры.",
+        "description": "РџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РґР°РЅРЅР°СЏ С‚Р°Р±Р»РёС‡РєР°\nРїРѕР»РЅРѕСЃС‚СЊСЋ РїСЂРѕРїР°РґРµС‚ РёР· РёРіСЂС‹.",
         "unic": 1
     },
     "ArzCloseUpdates": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/hbanner.lua",
         "png": "https://imgur.com/Hf8Cy6s",
-        "description": "После установки данная табличка\nполностью пропадет из игры.",
+        "description": "РџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РґР°РЅРЅР°СЏ С‚Р°Р±Р»РёС‡РєР°\nРїРѕР»РЅРѕСЃС‚СЊСЋ РїСЂРѕРїР°РґРµС‚ РёР· РёРіСЂС‹.",
         "unic": 1
     },
     "ArizonaAntiUpdate": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/AntiUpdate.lua",
         "png": "https://imgur.com/LMO9HLq",
-        "description": "Удаляет плажку 'Доступно обновление'\nПосле установки перезайти в игру.",
+        "description": "РЈРґР°Р»СЏРµС‚ РїР»Р°Р¶РєСѓ 'Р”РѕСЃС‚СѓРїРЅРѕ РѕР±РЅРѕРІР»РµРЅРёРµ'\nРџРѕСЃР»Рµ СѓСЃС‚Р°РЅРѕРІРєРё РїРµСЂРµР·Р°Р№С‚Рё РІ РёРіСЂСѓ.",
         "unic": 1
     },
     "ArzFastCarsMenu": {
         "link": "https://raw.githubusercontent.com/FREYM1337/forumnick/main/script_manager/fastcarmenu.lua",
         "png": "https://imgur.com/dyVZmMQ",
-        "description": "Открывает трезвый водитель по команде\nКоманда для активации /pcars",
+        "description": "РћС‚РєСЂС‹РІР°РµС‚ С‚СЂРµР·РІС‹Р№ РІРѕРґРёС‚РµР»СЊ РїРѕ РєРѕРјР°РЅРґРµ\nРљРѕРјР°РЅРґР° РґР»СЏ Р°РєС‚РёРІР°С†РёРё /pcars",
+        "unic": 1
+    }
+    "SmokeEnemy": {
+        "link": "-",
+        "png": "https://imgur.com/8owsrb6",
+        "description": "Smoke Enemy @raksamp1337_bot",
         "unic": 1
     }
 }
